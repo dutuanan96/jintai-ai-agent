@@ -1,20 +1,16 @@
-# Furniture Manufacturing AI Agent - Dependencies
+# JinTai AI Agent - Dependencies
 # Install: pip install -r requirements.txt
 
-# Excel processing
+# Excel processing (read/write BOM files)
 openpyxl>=3.1.0
 
-# Data processing
-pandas>=2.0.0
-
-# Pydantic schemas (validation)
+# Data validation (Pydantic models)
 pydantic>=2.0.0
 
-# Gemini AI (function calling)
-google-genai>=1.0.0
-
-# Web backend
+# Web backend (FastAPI server)
 fastapi>=0.100.0
 uvicorn>=0.20.0
 python-dotenv>=1.0.0
+
+# LLM integration (OpenRouter, Google AI)
 litellm>=1.0.0
