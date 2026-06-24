@@ -1,0 +1,50 @@
+{
+  "onboarding": {
+    "greeting": "询问BOM，比较产品，翻译 — 金汰家具工厂",
+    "check_bom": "检查BOM",
+    "compare_sp": "比较产品",
+    "translate_bom": "翻译BOM",
+    "list_sp": "列出产品"
+  },
+  "input": {
+    "placeholder": "询问BOM，比较产品，翻译...",
+    "new_line_hint": "Shift+Enter 换行"
+  },
+  "sidebar": {
+    "new_chat": "新对话",
+    "no_conversations": "暂无对话",
+    "show_more": "显示更多 {count} 条对话..."
+  },
+  "header": {
+    "settings": "设置"
+  },
+  "settings": {
+    "title": "设置",
+    "api_keys": "API 密钥",
+    "default_model": "默认模型",
+    "language": "语言",
+    "language_desc": "选择界面语言",
+    "save": "保存设置",
+    "saved": "已保存！",
+    "error": "保存设置出错",
+    "auto_lang": "自动（跟随用户）",
+    "vi_lang": "Tiếng Việt",
+    "en_lang": "English",
+    "zh_lang": "中文"
+  },
+  "chat": {
+    "loading": "加载中...",
+    "thinking": "思考中...",
+    "send": "发送",
+    "export_excel": "导出Excel",
+    "download": "下载"
+  },
+  "error": {
+    "not_found": "未找到产品 {sku}",
+    "tool_error": "工具错误：{error}",
+    "network_error": "网络错误"
+  },
+  "memory": {
+    "saved": "已记住"
+  }
+}

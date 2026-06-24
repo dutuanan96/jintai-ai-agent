@@ -1,0 +1,127 @@
+tên sản phẩm,mã số sản phẩm,kích thước tổng,màu phiên bản,số thứ tự,mã vật liệu,mã linh kiện,tên vật liệu,quy cách,chất liệu,màu sắc,thuộc tính,số lượng
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,1,LG05254BH,X01,254 thanh đũa,Ø5x254mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,2,SLHGZZ001BH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu đen,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,3,SLHGZY001BH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu đen,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,4,DD0900,R,900-đèn LED,"DC12V, SMD5050, 900mm",FPCB,đen bóng,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,5,DD0900,R1,kẹp cố định đèn,theo thực tế,PP,màu tự nhiên,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,6,LGS723SZKBH,I,LGS333_723_733 khung đỡ,290x178x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,7,LGS723CB101KD,C,LGS723-tấm tầng,947x300x12mm,PB,màu gỗ cổ,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,8,LGS723DB101KD,A,LGS723-Mặt bàn trên,987x300x12mm,PB,màu gỗ cổ,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,9,LGS723XZQSLBH,L1,LGS723_733 thanh dọc giữa-trước,198x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,10,LGS723XZHSLBH,L2,LGS723_733 thanh dọc giữa-sau,198x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,11,LGS723YKBH,E,LGS723_733 khung bên phải,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,12,LGS723ZKBH,D,LGS723_733 khung bên trái,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,13,LGS723ZZQHLBH,J,LGS723 thanh giữa,947x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,14,LGS723XQHLBH,G,LGS723 thanh dưới-trước,947x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,15,LGS723XHHLBH,F,LGS723 thanh dưới-sau,947x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,16,LGS723SQHLBH,K,LGS723 thanh trên,947x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,17,BC298282166KD,Y13,LGS túi vải 30x28x16.8,300x280x168mm,MDF&vải không dệt,màu gỗ cổ,linh kiện,3
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,18,BC458282186KD,Y12,LGS túi vải 46x28x18.7,460x280x187mm,MDF&vải không dệt,màu gỗ cổ,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,19,BCDB28827223BH,Z02,LGS đáy túi vải 28x30,295x275x3mm,MDF&vải không dệt,màu đen,linh kiện,3
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,20,BCDB44827223BH,Z07,LGS đáy túi vải 28x46,455x320x3mm,MDF&vải không dệt,màu đen,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,21,PC221BH,S,ổ cắm điện,tiêu chuẩn Anh-2AC+1USB+1TypeC ổ cắm,ABS,màu đen,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,22,LGS723ZFXKD,无,thùng đóng giữa,1065×330×100mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,23,ZHJ5050090,无,giấy nẹp,50×50×90mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,24,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,8
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,25,LGS723PM001,无,mút xốp,"20kg,320×90×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,26,LGS723PM002,无,mút xốp,"16kg,300×18×18mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,27,LGS723ZK,无,giấy lót,sóng đơn 1030×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,28,LGS723SMS,无,LGS723 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,29,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,30,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,31,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,2,LNBS57253BZ,2,L cờ lê lục giác,S3,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,3,NLPLS6022BH,3,M6x22 ốc lục giác,M6x22mm,#10,màu đen,Túi ngũ kim,30+2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,4,NLPLS6010BH,4,M6x10 ốc lục giác,M6x10mm,#10,màu đen,Túi ngũ kim,4+1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,5,BCLS129228BH,5,tay nắm,129x22x8mm,PP&GF40,màu đen,Túi ngũ kim,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,6,ZGLS4010CZ,6,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,màu đen,Túi ngũ kim,10+2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,7,SLPZLS6030WH,7,Ốc tắc kê nhựa,6x30mm,PP,màu trắng,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,8,ZGLS3560BH,7,ốc tự cắt,M3.5*60mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,9,TZJD629825BH,8,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu đen,Túi ngũ kim,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,10,GSSNZGLS5040BH,9,ST5X38 ốc tự khoan lục giác,Ø5x38mm,#10,màu đen,Túi ngũ kim,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723KD05S,300Dx987Wx681Hmm,màu gỗ cổ,11,PTZGLS6308BH,10,ST3.5X12 ốc tự cắt đầu bằng chữ thập,ST3.5x12mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,1,LG05254WH,X01,254 thanh đũa,Ø5x254mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,2,SLHGZZ001WH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu trắng,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,3,SLHGZY001WH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu trắng,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,4,DD0900,R,900-đèn LED,"DC12V, SMD5050, 900mm",FPCB,đen bóng,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,5,DD0900,R1,kẹp cố định đèn,theo thực tế,PP,màu trắng,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,6,LGS723SZKWH,I,LGS333_723_733 khung đỡ,290x178x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,7,LGS723CB101WH,C,LGS723-tấm tầng,947x300x12mm,PB,màu trắng,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,8,LGS723DB101WH,A,LGS723-Mặt bàn trên,987x300x12mm,PB,màu trắng,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,9,LGS723XZQSLWH,L1,LGS723_733 thanh dọc giữa-trước,198x15x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,10,LGS723XZHSLWH,L2,LGS723_733 thanh dọc giữa-sau,198x15x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,11,LGS723YKWH,E,LGS723_733 khung bên phải,659x290x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,12,LGS723ZKWH,D,LGS723_733 khung bên trái,659x290x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,13,LGS723ZZQHLWH,J,LGS723 thanh giữa,947x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,14,LGS723XQHLWH,G,LGS723 thanh dưới-trước,947x15x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,15,LGS723XHHLWH,F,LGS723 thanh dưới-sau,947x15x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,16,LGS723SQHLWH,K,LGS723 thanh trên,947x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,17,BC298282166WH,Y13,LGS túi vải 30x28x16.8,280x300x168mm,MDF&vải không dệt,màu trắng,linh kiện,3
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,18,BC458282186WH,Y12,LGS túi vải 46x28x18.7,280x460x187mm,MDF&vải không dệt,màu trắng,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,19,BCDB28827223WH,Z02,LGS đáy túi vải 28x30,275x295x3mm,MDF&vải không dệt,màu trắng,linh kiện,3
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,20,BCDB44827223WH,Z07,LGS đáy túi vải 28x46,320x455x3mm,MDF&vải không dệt,màu trắng,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,21,PC221WH,S,ổ cắm điện,tiêu chuẩn Anh-2AC+1USB+1TypeC ổ cắm,ABS,màu trắng,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,22,LGS723ZFXWH,无,thùng đóng giữa,1065×330×100mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,23,ZHJ5050090,无,giấy nẹp,50×50×90mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,24,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,8
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,25,LGS723PM001,无,mút xốp,"20kg,320×90×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,26,LGS723PM002,无,mút xốp,"16kg,300×18×18mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,27,LGS723ZK,无,giấy lót,sóng đơn 1030×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,28,LGS723SMS,无,LGS723 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,29,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,30,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,31,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,2,LNBS57253BZ,2,L cờ lê lục giác,S3,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,3,NLPLS6022BZ,3,M6x22 ốc lục giác,M6x22mm,#10,mạ kẽm,Túi ngũ kim,30+2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,4,NLPLS6010BZ,4,M6x10 ốc lục giác,M6x10mm,#10,mạ kẽm,Túi ngũ kim,4+1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,5,BCLS129228WH,5,tay nắm,129x22x8mm,PP&GF40,màu trắng,Túi ngũ kim,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,6,ZGLS4010CZ,6,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,mạ kẽm,Túi ngũ kim,10+2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,7,SLPZLS6030WH,7,Ốc tắc kê nhựa,6x30mm,PP,mạ kẽm,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,8,ZGLS3560BH,7,ốc tự cắt,M3.5*60mm,#10,mạ kẽm,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,9,TZJD629825WH,8,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu trắng,Túi ngũ kim,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,10,GSSNZGLS5040BH,9,ST5X38 ốc tự khoan lục giác,Ø5x38mm,#10,màu trắng,Túi ngũ kim,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723WH05S,300Dx987Wx681Hmm,màu trắng,11,PTZGLS6308BZ,10,ST3.5X12 ốc tự cắt đầu bằng chữ thập,ST3.5x12mm,#10,mạ kẽm,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,1,LG05254BH,X01,254 thanh đũa,Ø5x254mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,2,SLHGZZ001BH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu đen,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,3,SLHGZY001BH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu đen,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,4,DD0900,R,900-đèn LED,"DC12V, SMD5050, 900mm",FPCB,đen bóng,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,5,DD0900,R1,kẹp cố định đèn,theo thực tế,PP,màu tự nhiên,linh kiện,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,6,LGS723SZKBH,I,LGS333_723_733 khung đỡ,290x178x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,7,LGS723CB101BH,C,LGS723-tấm tầng,947x300x12mm,PB,màu đen,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,8,LGS723DB101BH,A,LGS723-Mặt bàn trên,987x300x12mm,PB,màu đen,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,9,LGS723XZQSLBH,L1,LGS723_733 thanh dọc giữa-trước,198x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,10,LGS723XZHSLBH,L2,LGS723_733 thanh dọc giữa-sau,198x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,11,LGS723YKBH,E,LGS723_733 khung bên phải,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,12,LGS723ZKBH,D,LGS723_733 khung bên trái,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,13,LGS723ZZQHLBH,J,LGS723 thanh giữa,947x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,14,LGS723XQHLBH,G,LGS723 thanh dưới-trước,947x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,15,LGS723XHHLBH,F,LGS723 thanh dưới-sau,947x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,16,LGS723SQHLBH,K,LGS723 thanh trên,947x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,17,BC298282166BH,Y13,LGS túi vải 30x28x16.8,280x300x168mm,MDF&vải không dệt,màu đen,linh kiện,3
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,18,BC458282186BH,Y12,LGS túi vải 46x28x18.7,280x460x187mm,MDF&vải không dệt,màu đen,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,19,BCDB28827223BH,Z02,LGS đáy túi vải 28x30,275x295x3mm,MDF&vải không dệt,màu đen,linh kiện,3
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,20,BCDB44827223BH,Z07,LGS đáy túi vải 28x46,320x455x3mm,MDF&vải không dệt,màu đen,linh kiện,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,21,PC221BH,S,ổ cắm điện,tiêu chuẩn Anh-2AC+1USB+1TypeC ổ cắm,ABS,màu đen,linh kiện,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,22,LGS723ZFXBH,无,thùng đóng giữa,1065×330×100mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,23,ZHJ5050090,无,giấy nẹp,50×50×90mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,24,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,8
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,25,LGS723PM001,无,mút xốp,"20kg,320×90×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,26,LGS723PM002,无,mút xốp,"16kg,300×18×18mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,27,LGS723ZK,无,giấy lót,sóng đơn 1030×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,28,LGS723SMS,无,LGS723 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,29,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,30,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,31,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,2,LNBS57253BZ,2,L cờ lê lục giác,S3,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,3,NLPLS6022BH,3,M6x22 ốc lục giác,M6x22mm,#10,màu đen,Túi ngũ kim,30+2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,4,NLPLS6010BH,4,M6x10 ốc lục giác,M6x10mm,#10,màu đen,Túi ngũ kim,4+1
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,5,BCLS129228BH,5,tay nắm,129x22x8mm,PP&GF40,màu đen,Túi ngũ kim,5
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,6,ZGLS4010CZ,6,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,màu đen,Túi ngũ kim,10+2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,7,SLPZLS6030WH,7,Ốc tắc kê nhựa,6x30mm,PP,màu trắng,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,8,ZGLS3560BH,7,ốc tự cắt,M3.5*60mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,9,TZJD629825BH,8,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu đen,Túi ngũ kim,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,10,GSSNZGLS5040BH,9,ST5X38 ốc tự khoan lục giác,Ø5x38mm,#10,màu đen,Túi ngũ kim,4
+BOM-LGS723-2 列 2 层 5 tủ ngăn kéo-39inch,LGS723BH02S,300Dx987Wx681Hmm,màu đen,11,PTZGLS6308BH,10,ST3.5X12 ốc tự cắt đầu bằng chữ thập,ST3.5x12mm,#10,màu đen,Túi ngũ kim,2

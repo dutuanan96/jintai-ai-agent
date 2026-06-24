@@ -1,0 +1,133 @@
+tên sản phẩm,mã số sản phẩm,kích thước tổng,màu phiên bản,số thứ tự,mã vật liệu,mã linh kiện,tên vật liệu,quy cách,chất liệu,màu sắc,thuộc tính,số lượng
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,1,DD1050,R,1050-đèn LED,"DC12V, SMD5050, 1050mm",FPCB,đen bóng,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,2,DD1050,R1,kẹp cố định đèn,theo thực tế,PP,màu tự nhiên,linh kiện,5
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,3,LG05254BH,X01,254 thanh đũa,Ø5x254mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,4,SLHGZZ001BH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu đen,linh kiện,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,5,SLHGZY001BH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu đen,linh kiện,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,6,ZJG150654BH,M,54 chân đế,70x15x15,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,7,LGS333XQHLBH,G,LGS333_433_733_833 Thanh dưới trước,1098x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,8,LGS333XHHLBH,F,LGS333_433_733_833 Thanh dưới sau,1098x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,9,LGS333SZKBH,I,LGS333_723_733 khung đỡ,290x178x15mm,Q195,đen nhám,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,10,LGS333SQHLBH,J,LGS333_733 thanh trên,1098x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,11,LGS333XZQSLBH,L2,LGS723_733 thanh dọc giữa-trước,198x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,12,LGS333XZHSLBH,L1,LGS723_733 thanh dọc giữa-sau,198x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,13,LGS333YKBH,E,LGS723_733 khung bên phải,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,14,LGS333ZKBH,D,LGS723_733 khung bên trái,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,15,LGS733CB101KD,C,LGS733-tấm tầng,1098x300x12mm,PB,màu gỗ cổ,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,16,LGS733DB101KD,A,LGS733-Mặt bàn trên,1138x300x12mm,PB,màu gỗ cổ,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,17,LGS733SQHLBH,K,LGS733 Thanh đỡ trên,1098x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,18,BC255282166KD,Y10,LGS túi vải 25.7x28x16.8,257x280x168mm,MDF&vải không dệt,màu gỗ cổ,linh kiện,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,19,BC348282186KD,Y05,LGS túi vải 35x28x18.7,350x280x187mm,MDF&vải không dệt,màu gỗ cổ,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,20,BCDB24527223BH,Z01,LGS đáy túi vải 28x25.7,252x275x3mm,MDF&vải không dệt,màu đen,linh kiện,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,21,BCDB33827223BH,Z05,LGS đáy túi vải 28x35,345x275x3mm,MDF&vải không dệt,màu đen,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,22,PC221BH,S,ổ cắm điện,tiêu chuẩn Anh-2AC+1USB+1TypeC ổ cắm,ABS,màu đen,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,23,LGS733PKXKD,无,thùng carton,1185×330×115mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,24,ZHJ5050100,无,giấy nẹp,50×50×100mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,25,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,8
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,26,LGS733PM001,无,mút xốp,"20Kg,320×100×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,27,LGS733PM002,无,mút xốp,"16kg,300×18×18mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,28,LGS733ZK,无,giấy lót,sóng đơn 1100×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,29,LGS733SMS,无,LGS733 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,30,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,31,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,32,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,2,LNBS57253BZ,2,L cờ lê lục giác,S3,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,3,NLPLS6022BH,3,M6x22 ốc lục giác,M6x22mm,#10,màu đen,Túi ngũ kim,39+2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,4,NLPLS6010BH,4,M6x10 ốc lục giác,M6x10mm,#10,màu đen,Túi ngũ kim,4+1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,5,BCLS129228BH,5,tay nắm,129x22x8mm,PP&GF40,màu đen,Túi ngũ kim,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,6,ZGLS4010CZ,6,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,màu đen,Túi ngũ kim,14+2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,7,SLPZLS6030WH,7,Ốc tắc kê nhựa,6x30mm,PP,màu trắng,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,8,ZGLS3560BH,7,ốc tự cắt,M3.5*60mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,9,TZJD629825BH,8,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu đen,Túi ngũ kim,6
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,10,GSSNZGLS5040BH,9,ST5X38 ốc tự khoan lục giác,Ø5x38mm,#10,màu đen,Túi ngũ kim,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,11,NLDP15508020BH,10,lông đền nhựa,đường kính ngoài 15.5×lỗ trong 8.0×厚 2.0mm,PP,màu đen,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733KD05S,300Dx1138Wx681Hmm,màu gỗ cổ,12,PTZGLS6308BH,11,ST3.5X12 ốc tự cắt đầu bằng chữ thập,ST3.5x12mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,1,DD1050,R,1050-đèn LED,"DC12V, SMD5050, 1050mm",FPCB,đen bóng,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,2,DD1050,R1,kẹp cố định đèn,theo thực tế,PP,màu trắng,linh kiện,5
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,3,LG05254WH,X01,254 thanh đũa,Ø5x254mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,4,SLHGZZ001WH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu trắng,linh kiện,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,5,SLHGZY001WH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu trắng,linh kiện,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,6,ZJG150654WH,M,54 chân đế,70x15x15,Q195,trắng nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,7,LGS333XQHLWH,G,LGS333_433_733_833 Thanh dưới trước,1098x15x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,8,LGS333XHHLWH,F,LGS333_433_733_833 Thanh dưới sau,1098x15x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,9,LGS333SZKWH,I,LGS333_723_733 khung đỡ,290x178x15mm,Q195,trắng nhám,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,10,LGS333SQHLWH,J,LGS333_733 thanh trên,1098x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,11,LGS333XZQSLWH,L2,LGS723_733 thanh dọc giữa-trước,198x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,12,LGS333XZHSLWH,L1,LGS723_733 thanh dọc giữa-sau,198x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,13,LGS333YKWH,E,LGS723_733 khung bên phải,659x290x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,14,LGS333ZKWH,D,LGS723_733 khung bên trái,659x290x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,15,LGS733CB101WH,C,LGS733-tấm tầng,1098x300x12mm,PB,màu trắng,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,16,LGS733DB101WH,A,LGS733-Mặt bàn trên,1138x300x12mm,PB,màu trắng,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,17,LGS733SQHLWH,K,LGS733 Thanh đỡ trên,1098x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,18,BC255282166WH,Y10,LGS túi vải 25.7x28x16.8,280x257x168mm,MDF&vải không dệt,màu trắng,linh kiện,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,19,BC348282186WH,Y05,LGS túi vải 35x28x18.7,280x350x187mm,MDF&vải không dệt,màu trắng,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,20,BCDB24527223WH,Z01,LGS đáy túi vải 28x25.7,275x252x3mm,MDF&vải không dệt,màu trắng,linh kiện,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,21,BCDB33827223WH,Z05,LGS đáy túi vải 28x35,275x345x3mm,MDF&vải không dệt,màu trắng,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,22,PC221WH,S,ổ cắm điện,tiêu chuẩn Anh-2AC+1USB+1TypeC ổ cắm,ABS,màu trắng,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,23,LGS733PKXWH,无,thùng carton,1185×330×115mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,24,ZHJ5050100,无,giấy nẹp,50×50×100mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,25,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,8
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,26,LGS733PM001,无,mút xốp,"20Kg,320×100×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,27,LGS733PM002,无,mút xốp,"16kg,300×18×18mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,28,LGS733ZK,无,giấy lót,sóng đơn 1100×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,29,LGS733SMS,无,LGS733 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,30,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,31,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,32,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,2,LNBS57253BZ,2,L cờ lê lục giác,S3,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,3,NLPLS6022BZ,3,M6x22 ốc lục giác,M6x22mm,#10,mạ kẽm,Túi ngũ kim,39+2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,4,NLPLS6010BZ,4,M6x10 ốc lục giác,M6x10mm,#10,mạ kẽm,Túi ngũ kim,4+1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,5,BCLS129228WH,5,tay nắm,129x22x8mm,PP&GF40,màu trắng,Túi ngũ kim,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,6,ZGLS4010CZ,6,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,mạ kẽm,Túi ngũ kim,14+2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,7,SLPZLS6030WH,7,Ốc tắc kê nhựa,6x30mm,PP,mạ kẽm,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,8,ZGLS3560BH,7,ốc tự cắt,M3.5*60mm,#10,mạ kẽm,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,9,TZJD629825WH,8,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu trắng,Túi ngũ kim,6
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,10,GSSNZGLS5040BH,9,ST5X38 ốc tự khoan lục giác,Ø5x38mm,#10,màu trắng,Túi ngũ kim,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,11,NLDP15508020BH,10,lông đền nhựa,đường kính ngoài 15.5×lỗ trong 8.0×厚 2.0mm,PP,màu trắng,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733WH05S,300Dx1138Wx681Hmm,màu trắng,12,PTZGLS6308BZ,11,ST3.5X12 ốc tự cắt đầu bằng chữ thập,ST3.5x12mm,#10,mạ kẽm,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,1,DD1050,R,1050-đèn LED,"DC12V, SMD5050, 1050mm",FPCB,đen bóng,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,2,DD1050,R1,kẹp cố định đèn,theo thực tế,PP,màu tự nhiên,linh kiện,5
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,3,LG05254BH,X01,254 thanh đũa,Ø5x254mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,4,SLHGZZ001BH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu đen,linh kiện,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,5,SLHGZY001BH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu đen,linh kiện,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,6,ZJG150654BH,M,54 chân đế,70x15x15,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,7,LGS333XQHLBH,G,LGS333_433_733_833 Thanh dưới trước,1098x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,8,LGS333XHHLBH,F,LGS333_433_733_833 Thanh dưới sau,1098x15x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,9,LGS333SZKBH,I,LGS333_723_733 khung đỡ,290x178x15mm,Q195,đen nhám,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,10,LGS333SQHLBH,J,LGS333_733 thanh trên,1098x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,11,LGS333XZQSLBH,L2,LGS723_733 thanh dọc giữa-trước,198x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,12,LGS333XZHSLBH,L1,LGS723_733 thanh dọc giữa-sau,198x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,13,LGS333YKBH,E,LGS723_733 khung bên phải,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,14,LGS333ZKBH,D,LGS723_733 khung bên trái,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,15,LGS733CB101BH,C,LGS733-tấm tầng,1098x300x12mm,PB,màu đen,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,16,LGS733DB101BH,A,LGS733-Mặt bàn trên,1138x300x12mm,PB,màu đen,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,17,LGS733SQHLBH,K,LGS733 Thanh đỡ trên,1098x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,18,BC255282166BH,Y10,LGS túi vải 25.7x28x16.8,280x257x168mm,MDF&vải không dệt,màu đen,linh kiện,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,19,BC348282186BH,Y05,LGS túi vải 35x28x18.7,280x350x187mm,MDF&vải không dệt,màu đen,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,20,BCDB24527223BH,Z01,LGS đáy túi vải 28x25.7,275x252x3mm,MDF&vải không dệt,màu đen,linh kiện,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,21,BCDB33827223BH,Z05,LGS đáy túi vải 28x35,275x345x3mm,MDF&vải không dệt,màu đen,linh kiện,3
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,22,PC221BH,S,ổ cắm điện,tiêu chuẩn Anh-2AC+1USB+1TypeC ổ cắm,ABS,màu đen,linh kiện,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,23,LGS733PKXBH,无,thùng carton,1185×330×115mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,24,ZHJ5050100,无,giấy nẹp,50×50×100mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,25,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,8
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,26,LGS733PM001,无,mút xốp,"20Kg,320×100×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,27,LGS733PM002,无,mút xốp,"16kg,300×18×18mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,28,LGS733ZK,无,giấy lót,sóng đơn 1100×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,29,LGS733SMS,无,LGS733 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,30,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,31,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,32,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,2,LNBS57253BZ,2,L cờ lê lục giác,S3,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,3,NLPLS6022BH,3,M6x22 ốc lục giác,M6x22mm,#10,màu đen,Túi ngũ kim,39+2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,4,NLPLS6010BH,4,M6x10 ốc lục giác,M6x10mm,#10,màu đen,Túi ngũ kim,4+1
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,5,BCLS129228BH,5,tay nắm,129x22x8mm,PP&GF40,màu đen,Túi ngũ kim,7
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,6,ZGLS4010CZ,6,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,màu đen,Túi ngũ kim,14+2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,7,SLPZLS6030WH,7,Ốc tắc kê nhựa,6x30mm,PP,màu trắng,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,8,ZGLS3560BH,7,ốc tự cắt,M3.5*60mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,9,TZJD629825BH,8,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu đen,Túi ngũ kim,6
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,10,GSSNZGLS5040BH,9,ST5X38 ốc tự khoan lục giác,Ø5x38mm,#10,màu đen,Túi ngũ kim,4
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,11,NLDP15508020BH,10,lông đền nhựa,đường kính ngoài 15.5×lỗ trong 8.0×厚 2.0mm,PP,màu đen,Túi ngũ kim,2
+BOM-LGS733-3 列 3 Kệ tầng mở có đèn và điện 7 tủ ngăn kéo,LGS733BH02S,300Dx1138Wx681Hmm,màu đen,12,PTZGLS6308BH,11,ST3.5X12 ốc tự cắt đầu bằng chữ thập,ST3.5x12mm,#10,màu đen,Túi ngũ kim,2

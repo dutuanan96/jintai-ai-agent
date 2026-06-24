@@ -1,0 +1,59 @@
+tên sản phẩm,mã số sản phẩm,kích thước tổng,màu phiên bản,số thứ tự,mã vật liệu,mã linh kiện,tên vật liệu,quy cách,chất liệu,màu sắc,thuộc tính,số lượng
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,1,SLHGZZ001BH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu đen,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,2,SLHGZY001BH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu đen,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,3,ZJG150654BH,M,54 chân đế,70x15x15,Q195,đen nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,4,LG05595BH,X02,595 thanh đũa,Ø5x595mm,Q195,đen nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,5,LGS033ZYKBH,C,LGS033 khung giữa,584x290x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,6,LGS033YKBH,E,LGS033 khung bên phải,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,7,LGS033ZKBH,D,LGS033 khung bên trái,659x290x15mm,Q195,đen nhám,linh kiện,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,8,LGS033QHHLBH,F,LGS033 thanh dưới,1098x15x15mm,Q195,đen nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,9,LGS033DB101KD,A,LGS033 Mặt bàn trên,1138x300x12mm,PB,màu gỗ cổ,linh kiện,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,10,BC348282186KD,Y05,LGS túi vải 35x28x18.7,350x280x187mm,MDF&vải không dệt,màu gỗ cổ,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,11,BCDB33827223BH,Z05,LGS đáy túi vải 28x35,345x275x3mm,MDF&vải không dệt,màu đen,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,12,LGS033PKXKD,无,thùng carton,1185×330×115mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,13,ZHJ5050100,无,giấy nẹp,50×50×100mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,14,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,4
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,15,LGS033PM001,无,mút xốp,"20Kg,320×100×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,16,LGS033ZK,无,giấy lót,sóng đơn 1100×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,17,LGS033SMS,无,LGS033 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,18,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,19,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,20,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,2,NLPLS6022BH,2,M6x22 ốc lục giác,M6x22mm,#10,màu đen,Túi ngũ kim,16+2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,3,NLPLS6010BH,3,M6x10 ốc lục giác,M6x10mm,#10,màu đen,Túi ngũ kim,4+1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,4,BCLS129228BH,4,tay nắm,129x22x8mm,PP&GF40,màu đen,Túi ngũ kim,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,5,ZGLS4010CZ,5,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,màu đen,Túi ngũ kim,18+2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,6,SLPZLS6030WH,6,Ốc tắc kê nhựa,6x30mm,PP,màu trắng,Túi ngũ kim,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,7,ZGLS3560BH,6,ốc tự cắt,M3.5*60mm,#10,màu đen,Túi ngũ kim,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,8,TZJD629825BH,7,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu đen,Túi ngũ kim,6
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033KD02S,300Dx1138Wx681Hmm,màu gỗ cổ,9,NLDP15508020BH,8,lông đền nhựa,đường kính ngoài 15.5×lỗ trong 8.0×厚 2.0mm,PP,màu đen,Túi ngũ kim,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,1,SLHGZZ001WH,BL,280mm Thanh ngăn kéo trái,280x25x23mm,PP&GF40,màu trắng,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,2,SLHGZY001WH,BR,280mm Thanh ngăn kéo phải,280x25x23mm,PP&GF40,màu trắng,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,3,ZJG150654WH,M,54 chân đế,70x15x15,Q195,trắng nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,4,LG05595WH,X02,595 thanh đũa,Ø5x595mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,5,LGS033ZYKWH,C,LGS033 khung giữa,584x290x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,6,LGS033YKWH,E,LGS033 khung bên phải,659x290x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,7,LGS033ZKWH,D,LGS033 khung bên trái,659x290x15mm,Q195,trắng nhám,linh kiện,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,8,LGS033QHHLWH,F,LGS033 thanh dưới,1098x15x15mm,Q195,trắng nhám,linh kiện,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,9,LGS033DB101WH,A,LGS033 Mặt bàn trên,1138x300x12mm,PB,màu trắng,linh kiện,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,10,BC348282186WH,Y05,LGS túi vải 35x28x18.7,280x350x187mm,MDF&vải không dệt,màu trắng,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,11,BCDB33827223WH,Z05,LGS đáy túi vải 28x35,275x345x3mm,MDF&vải không dệt,màu trắng,linh kiện,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,12,LGS033PKXWH,无,thùng carton,1185×330×115mm,giấy carton,màu giấy,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,13,ZHJ5050100,无,giấy nẹp,50×50×100mm,giấy carton,màu giấy,vật liệu đóng gói,4
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,14,PPHJ1285,无,PP góc nhựa,"đường kính trong cao 12mm,độ dày cạnh 8.5mm",PP,màu đen,vật liệu đóng gói,4
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,15,LGS033PM001,无,mút xốp,"20Kg,320×100×8mm",EPS mút xốp,màu trắng,vật liệu đóng gói,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,16,LGS033ZK,无,giấy lót,sóng đơn 1100×60mm,giấy carton sóng đơn,màu giấy,vật liệu đóng gói,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,17,LGS033SMS,无,LGS033 sách hướng dẫn,A4,giấy couché,đen trắng,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,18,XHBBL010,无,nhãn STT BL,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,19,XHBBR010,无,nhãn STT BR,∅10mm,giấy decal,nền trắng chữ đen,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,20,JGB120052,无,nhãn cảnh báo,120×52mm,giấy decal,theo mẫu,vật liệu đóng gói,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,1,LNSLSD65254BZ,1,L vít lục giác có đầu chữ thập,S4,#10,mạ kẽm,Túi ngũ kim,1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,2,NLPLS6022BZ,2,M6x22 ốc lục giác,M6x22mm,#10,mạ kẽm,Túi ngũ kim,16+2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,3,NLPLS6010BZ,3,M6x10 ốc lục giác,M6x10mm,#10,mạ kẽm,Túi ngũ kim,4+1
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,4,BCLS129228WH,4,tay nắm,129x22x8mm,PP&GF40,màu trắng,Túi ngũ kim,9
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,5,ZGLS4010CZ,5,ST4x10 ốc tự cắt đầu tròn chữ thập,ST4x10mm,#10,mạ kẽm,Túi ngũ kim,18+2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,6,SLPZLS6030WH,6,Ốc tắc kê nhựa,6x30mm,PP,mạ kẽm,Túi ngũ kim,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,7,ZGLS3560BH,6,ốc tự cắt,M3.5*60mm,#10,mạ kẽm,Túi ngũ kim,2
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,8,TZJD629825WH,7,10-chân đế,M6x10mm,PP&thép mạ kẽm,màu trắng,Túi ngũ kim,6
+BOM-LGS033-3 列 3 层 9 抽-45inch,LGS033WH02S,300Dx1138Wx681Hmm,màu trắng,9,NLDP15508020BH,8,lông đền nhựa,đường kính ngoài 15.5×lỗ trong 8.0×厚 2.0mm,PP,màu trắng,Túi ngũ kim,2

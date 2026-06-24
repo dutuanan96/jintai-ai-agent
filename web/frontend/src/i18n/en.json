@@ -1,0 +1,50 @@
+{
+  "onboarding": {
+    "greeting": "Ask about BOM, compare products, translate — for 金汰家具 factory",
+    "check_bom": "Check BOM",
+    "compare_sp": "Compare Products",
+    "translate_bom": "Translate BOM",
+    "list_sp": "List Products"
+  },
+  "input": {
+    "placeholder": "Ask about BOM, compare products, translate...",
+    "new_line_hint": "Shift+Enter for new line"
+  },
+  "sidebar": {
+    "new_chat": "New Chat",
+    "no_conversations": "No conversations yet",
+    "show_more": "Show {count} more conversations..."
+  },
+  "header": {
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "api_keys": "API Keys",
+    "default_model": "Default Model",
+    "language": "Language",
+    "language_desc": "Choose interface language",
+    "save": "Save Settings",
+    "saved": "Saved!",
+    "error": "Error saving settings",
+    "auto_lang": "Auto (follow user)",
+    "vi_lang": "Tiếng Việt",
+    "en_lang": "English",
+    "zh_lang": "中文"
+  },
+  "chat": {
+    "loading": "Loading...",
+    "thinking": "Thinking...",
+    "send": "Send",
+    "export_excel": "Export Excel",
+    "download": "Download"
+  },
+  "error": {
+    "not_found": "Product {sku} not found",
+    "tool_error": "Tool error: {error}",
+    "network_error": "Network error"
+  },
+  "memory": {
+    "saved": "Remembered"
+  }
+}

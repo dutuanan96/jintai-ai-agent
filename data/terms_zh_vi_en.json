@@ -1,0 +1,282 @@
+{
+  "MDF": {
+    "vi": "gỗ MDF (ván MDF)",
+    "en": "MDF (Medium Density Fiberboard)",
+    "category": "material"
+  },
+  "PB": {
+    "vi": "gỗ PB (ván dăm)",
+    "en": "PB (Particle Board)",
+    "category": "material"
+  },
+  "Q195": {
+    "vi": "thép Q195",
+    "en": "Q195 steel",
+    "category": "material"
+  },
+  "ABS": {
+    "vi": "nhựa ABS",
+    "en": "ABS plastic",
+    "category": "material"
+  },
+  "PP": {
+    "vi": "nhựa PP",
+    "en": "PP plastic (Polypropylene)",
+    "category": "material"
+  },
+  "PP&GF40": {
+    "vi": "nhựa PP + 40% sợi thủy tinh",
+    "en": "PP + 40% glass fiber",
+    "category": "material"
+  },
+  "FPCB": {
+    "vi": "bản mạch LED",
+    "en": "FPCB (Flexible PCB)",
+    "category": "material"
+  },
+  "EPS泡沫": {
+    "vi": "xốp EPS",
+    "en": "EPS foam",
+    "category": "material"
+  },
+  "无纺布": {
+    "vi": "vải không dệt",
+    "en": "non-woven fabric",
+    "category": "material"
+  },
+  "不干胶纸": {
+    "vi": "giấy decal",
+    "en": "sticker paper",
+    "category": "material"
+  },
+  "铜版纸": {
+    "vi": "giấy couché",
+    "en": "coated paper",
+    "category": "material"
+  },
+  "瓦楞纸": {
+    "vi": "giấy carton",
+    "en": "corrugated cardboard",
+    "category": "material"
+  },
+  "布抽": {
+    "vi": "ngăn kéo vải",
+    "en": "fabric drawer",
+    "category": "component"
+  },
+  "布抽底板": {
+    "vi": "đáy ngăn kéo vải",
+    "en": "fabric drawer bottom panel",
+    "category": "component"
+  },
+  "顶板": {
+    "vi": "tấm trên",
+    "en": "top panel",
+    "category": "component"
+  },
+  "层板": {
+    "vi": "tấm ngăn",
+    "en": "shelf panel",
+    "category": "component"
+  },
+  "中框": {
+    "vi": "khung giữa",
+    "en": "middle frame",
+    "category": "component"
+  },
+  "左右侧框": {
+    "vi": "khung bên trái/phải",
+    "en": "left/right side frame",
+    "category": "component"
+  },
+  "横杆": {
+    "vi": "thanh ngang",
+    "en": "crossbar",
+    "category": "component"
+  },
+  "灯带": {
+    "vi": "đèn LED strip",
+    "en": "LED strip light",
+    "category": "component"
+  },
+  "卡扣": {
+    "vi": "khóa gài",
+    "en": "clip",
+    "category": "component"
+  },
+  "把手": {
+    "vi": "tay nắm",
+    "en": "handle",
+    "category": "component"
+  },
+  "底脚": {
+    "vi": "chân đế",
+    "en": "base foot",
+    "category": "component"
+  },
+  "说明书": {
+    "vi": "sách hướng dẫn",
+    "en": "instruction manual",
+    "category": "component"
+  },
+  "警告标": {
+    "vi": "nhãn cảnh báo",
+    "en": "warning label",
+    "category": "component"
+  },
+  "排插带尾插": {
+    "vi": "ổ cắm điện",
+    "en": "power strip",
+    "category": "component"
+  },
+  "内六角螺丝": {
+    "vi": "ốc lục giác",
+    "en": "hex socket screw",
+    "category": "hardware"
+  },
+  "过山丝": {
+    "vi": "ốc tự chế (self-drilling)",
+    "en": "self-drilling screw",
+    "category": "hardware"
+  },
+  "自攻螺丝": {
+    "vi": "ốc tự cắt",
+    "en": "self-tapping screw",
+    "category": "hardware"
+  },
+  "圆头十字": {
+    "vi": "đầu tròn chữ thập",
+    "en": "round head Phillips",
+    "category": "hardware"
+  },
+  "平头十字": {
+    "vi": "đầu bằng chữ thập",
+    "en": "flat head Phillips",
+    "category": "hardware"
+  },
+  "塑料膨胀螺丝": {
+    "vi": "đinh toggle",
+    "en": "plastic wall anchor",
+    "category": "hardware"
+  },
+  "内六角扳手": {
+    "vi": "cờ lê lục giác",
+    "en": "hex key / Allen wrench",
+    "category": "hardware"
+  },
+  "螺丝刀": {
+    "vi": "tuýp vít",
+    "en": "screwdriver",
+    "category": "hardware"
+  },
+  "mm": {
+    "vi": "mm",
+    "en": "mm",
+    "category": "unit"
+  },
+  "x": {
+    "vi": "x",
+    "en": "x",
+    "category": "separator"
+  },
+  "复古色": {
+    "vi": "màu cổ điển",
+    "en": "vintage color",
+    "category": "color"
+  },
+  "黑色": {
+    "vi": "màu đen",
+    "en": "black",
+    "category": "color"
+  },
+  "本色": {
+    "vi": "màu tự nhiên",
+    "en": "natural color",
+    "category": "color"
+  },
+  "纸色": {
+    "vi": "màu giấy",
+    "en": "cardboard color",
+    "category": "color"
+  },
+  "白色": {
+    "vi": "màu trắng",
+    "en": "white",
+    "category": "color"
+  },
+  "黑砂纹": {
+    "vi": "đen nhám",
+    "en": "black textured",
+    "category": "color"
+  },
+  "黑泊板": {
+    "vi": "đen bóng",
+    "en": "black glossy",
+    "category": "color"
+  },
+  "按样": {
+    "vi": "theo mẫu",
+    "en": "as per sample",
+    "category": "color"
+  },
+  "个": {
+    "vi": "cái",
+    "en": "pcs",
+    "category": "unit"
+  },
+  "片": {
+    "vi": "tấm",
+    "en": "pcs",
+    "category": "unit"
+  },
+  "根": {
+    "vi": "thanh",
+    "en": "pcs",
+    "category": "unit"
+  },
+  "套": {
+    "vi": "bộ",
+    "en": "set",
+    "category": "unit"
+  },
+  "张": {
+    "vi": "tờ",
+    "en": "sheets",
+    "category": "unit"
+  },
+  "块": {
+    "vi": "miếng",
+    "en": "pcs",
+    "category": "unit"
+  },
+  "平口箱": {
+    "vi": "thùng carton",
+    "en": "carton box",
+    "category": "packaging"
+  },
+  "纸护角": {
+    "vi": "góc bảo vệ carton",
+    "en": "cardboard corner protector",
+    "category": "packaging"
+  },
+  "纸卡": {
+    "vi": "miếng carton",
+    "en": "cardboard insert",
+    "category": "packaging"
+  },
+  "泡沫": {
+    "vi": "xốp",
+    "en": "foam",
+    "category": "packaging"
+  },
+  "PP护角": {
+    "vi": "góc bảo vệ PP",
+    "en": "PP corner protector",
+    "category": "packaging"
+  },
+  "纸盒": {
+    "vi": "hộp giấy",
+    "en": "paper box",
+    "category": "packaging"
+  }
+}

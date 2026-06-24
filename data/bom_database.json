@@ -1,0 +1,2850 @@
+{
+  "LGS031": {
+    "name": "LGS031",
+    "sku": "LGS031K101S",
+    "size": "300Dx1138Wx598Hmm",
+    "parts": [
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS031-顶板",
+        "qty": "1",
+        "vi": "LGS031-tấm trên"
+      },
+      {
+        "code": "R",
+        "zh": "1050-灯带",
+        "qty": "1",
+        "vi": "1050-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28X35",
+        "qty": "1",
+        "vi": "LGS đáy túi vải 28X35"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "1",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS031-右中框",
+        "qty": "1",
+        "vi": "LGS031-Khung giữa phải"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "1",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS031-左中框",
+        "qty": "1",
+        "vi": "LGS031-Khung giữa trái"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS031-层板",
+        "qty": "3",
+        "vi": "LGS031-tấm tầng"
+      },
+      {
+        "code": "D",
+        "zh": "LGS031-左右侧框",
+        "qty": "2",
+        "vi": "LGS031-Khung bên trái phải"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "1",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "E",
+        "zh": "LGS031-顶部横杆",
+        "qty": "4",
+        "vi": "LGS031-thanh trên"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      }
+    ]
+  },
+  "LGS032": {
+    "name": "LGS032",
+    "sku": "LGS032K101S",
+    "size": "300Dx1138Wx681Hmm",
+    "parts": [
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS032-S顶板",
+        "qty": "1",
+        "vi": "LGS032-S tấm trên"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS032-S-中层板",
+        "qty": "1",
+        "vi": "LGS032-S-tấm tầng giữa"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS032-S-底部层板",
+        "qty": "1",
+        "vi": "LGS032-S-Tấm tầng đáy"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "6",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "6",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS032-S-中框左",
+        "qty": "1",
+        "vi": "LGS032-S-Khung giữa trái"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS032-S-中框右",
+        "qty": "1",
+        "vi": "LGS032-S-Khung giữa phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS032-S-左侧框",
+        "qty": "1",
+        "vi": "LGS032-S-khung bên trái"
+      },
+      {
+        "code": "E",
+        "zh": "LGS032-S-右侧框",
+        "qty": "1",
+        "vi": "LGS032-S-khung bên phải"
+      },
+      {
+        "code": "F",
+        "zh": "LGS032-S-底部横杆后",
+        "qty": "1",
+        "vi": "LGS032-S-Thanh dưới sau"
+      },
+      {
+        "code": "G",
+        "zh": "LGS032-S-底部横杆前",
+        "qty": "1",
+        "vi": "LGS032-S-Thanh dưới trước"
+      },
+      {
+        "code": "J",
+        "zh": "LGS032-S-顶部横杆",
+        "qty": "2",
+        "vi": "LGS032-S-thanh trên"
+      },
+      {
+        "code": "M",
+        "zh": "51底脚",
+        "qty": "2",
+        "vi": "51 chân đế"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28X35",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 28X35"
+      },
+      {
+        "code": "R",
+        "zh": "310-灯带",
+        "qty": "1",
+        "vi": "310-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS033": {
+    "name": "LGS033",
+    "sku": "LGS033KD02S",
+    "size": "300Dx1138Wx681Hmm",
+    "parts": [
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "9",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "9",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "X02",
+        "zh": "595拉杆",
+        "qty": "2",
+        "vi": "595 thanh đũa"
+      },
+      {
+        "code": "C",
+        "zh": "LGS033中框",
+        "qty": "2",
+        "vi": "LGS033 khung giữa"
+      },
+      {
+        "code": "E",
+        "zh": "LGS033右侧框",
+        "qty": "1",
+        "vi": "LGS033 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS033左侧框",
+        "qty": "1",
+        "vi": "LGS033 khung bên trái"
+      },
+      {
+        "code": "F",
+        "zh": "LGS033底部横杆",
+        "qty": "2",
+        "vi": "LGS033 thanh dưới"
+      },
+      {
+        "code": "A",
+        "zh": "LGS033顶面板",
+        "qty": "1",
+        "vi": "LGS033 Mặt bàn trên"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "9",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "9",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS043": {
+    "name": "LGS043",
+    "sku": "LGS043K101S",
+    "size": "350Dx1738Wx679Hmm",
+    "parts": [
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "J",
+        "zh": "LGS043-S-顶部横杆",
+        "qty": "2",
+        "vi": "LGS043-S-thanh trên"
+      },
+      {
+        "code": "R",
+        "zh": "900-灯带",
+        "qty": "1",
+        "vi": "900-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS043-S-顶板右",
+        "qty": "1",
+        "vi": "LGS043-S-Tấm trên phải"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS043-S-中框右",
+        "qty": "1",
+        "vi": "LGS043-S-Khung giữa phải"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "11",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "E",
+        "zh": "LGS043-S-右侧框",
+        "qty": "1",
+        "vi": "LGS043-S-khung bên phải"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "11",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "K",
+        "zh": "LGS043-S-侧框横杆",
+        "qty": "4",
+        "vi": "LGS043-S-Thanh ngang khung"
+      },
+      {
+        "code": "Z06",
+        "zh": "LGS布抽底板32.5X35",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 32.5X35"
+      },
+      {
+        "code": "Y14",
+        "zh": "LGS布抽35x32.5x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 35x32.5x18.7"
+      },
+      {
+        "code": "Z03",
+        "zh": "LGS布抽底板32.5X30",
+        "qty": "3",
+        "vi": "LGS đáy túi vải 32.5X30"
+      },
+      {
+        "code": "Y15",
+        "zh": "LGS布抽30x32.5x14.8",
+        "qty": "3",
+        "vi": "LGS túi vải 30x32.5x14.8"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "2",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS布抽底板32.5X46",
+        "qty": "2",
+        "vi": "LGS đáy túi vải 32.5X46"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS043-S-底部竖杆前",
+        "qty": "1",
+        "vi": "LGS043-S-Thanh dọc trước dưới"
+      },
+      {
+        "code": "F",
+        "zh": "LGS043-S-底部横杆",
+        "qty": "2",
+        "vi": "LGS043-S-thanh dưới"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS043-S-底部竖杆后",
+        "qty": "1",
+        "vi": "LGS043-S-Thanh dọc sau dưới"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS043-S-中框左",
+        "qty": "1",
+        "vi": "LGS043-S-Khung giữa trái"
+      },
+      {
+        "code": "G",
+        "zh": "LGS043-S-中部横杆",
+        "qty": "2",
+        "vi": "LGS043-S-thanh giữa"
+      },
+      {
+        "code": "D",
+        "zh": "LGS043-S-左侧框",
+        "qty": "1",
+        "vi": "LGS043-S-khung bên trái"
+      },
+      {
+        "code": "I",
+        "zh": "LGS043-S-支撑框",
+        "qty": "2",
+        "vi": "LGS043-S-khung đỡ"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS043-S-层板",
+        "qty": "1",
+        "vi": "LGS043-S-tấm tầng"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS043-S-顶板左",
+        "qty": "1",
+        "vi": "LGS043-S-Tấm trên trái"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS101": {
+    "name": "LGS101",
+    "sku": "LGS101K101S",
+    "size": "300Dx396Wx580Hmm",
+    "parts": [
+      {
+        "code": "A005",
+        "zh": "LGS101-S-底部板",
+        "qty": "1",
+        "vi": "LGS101-S-底部板"
+      },
+      {
+        "code": "A007",
+        "zh": "LGS101-S-顶面面板",
+        "qty": "1",
+        "vi": "LGS101-S-顶面面板"
+      },
+      {
+        "code": "C003",
+        "zh": "LGS101-S-侧框左",
+        "qty": "1",
+        "vi": "LGS101-S-Khung bên trái"
+      },
+      {
+        "code": "C004",
+        "zh": "LGS101-S-侧框右",
+        "qty": "1",
+        "vi": "LGS101-S-Khung bên phải"
+      },
+      {
+        "code": "E001",
+        "zh": "LGS101-S-顶部横杆",
+        "qty": "2",
+        "vi": "LGS101-S-thanh trên"
+      },
+      {
+        "code": "X04",
+        "zh": "十字拉杆",
+        "qty": "1",
+        "vi": "十字thanh đũa"
+      },
+      {
+        "code": "Y18",
+        "zh": "LGS布抽35x28x15",
+        "qty": "1",
+        "vi": "LGS túi vải 35x28x15"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "1",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "1",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "1",
+        "vi": "280mm Thanh ngăn kéo phải"
+      }
+    ]
+  },
+  "LGS111": {
+    "name": "LGS111",
+    "sku": "LGS111K101S",
+    "size": "300Dx396Wx580Hmm x2",
+    "parts": [
+      {
+        "code": "A005",
+        "zh": "LGS111-S-底部板",
+        "qty": "2",
+        "vi": "LGS111-S-底部板"
+      },
+      {
+        "code": "A007",
+        "zh": "LGS111-S-顶面面板",
+        "qty": "2",
+        "vi": "LGS111-S-顶面面板"
+      },
+      {
+        "code": "C003",
+        "zh": "LGS111-S-侧框左",
+        "qty": "2",
+        "vi": "LGS111-S-Khung bên trái"
+      },
+      {
+        "code": "C004",
+        "zh": "LGS111-S-侧框右",
+        "qty": "2",
+        "vi": "LGS111-S-Khung bên phải"
+      },
+      {
+        "code": "E001",
+        "zh": "LGS111-S-顶部横杆",
+        "qty": "4",
+        "vi": "LGS111-S-thanh trên"
+      },
+      {
+        "code": "X04",
+        "zh": "十字拉杆",
+        "qty": "2",
+        "vi": "十字thanh đũa"
+      },
+      {
+        "code": "Y18",
+        "zh": "LGS布抽35x28x15",
+        "qty": "2",
+        "vi": "LGS túi vải 35x28x15"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "2",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "2",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "2",
+        "vi": "280mm Thanh ngăn kéo phải"
+      }
+    ]
+  },
+  "LGS131": {
+    "name": "LGS131",
+    "sku": "LGS131K101S",
+    "size": "350Dx1570Wx598Hmm",
+    "parts": [
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS131-右顶板",
+        "qty": "1",
+        "vi": "LGS131-tấm trên phải"
+      },
+      {
+        "code": "R",
+        "zh": "1500-灯带",
+        "qty": "1",
+        "vi": "1500-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "F",
+        "zh": "LGS231_131-顶部横杆前",
+        "qty": "1",
+        "vi": "LGS231_131-Thanh trên trước"
+      },
+      {
+        "code": "D",
+        "zh": "LGS421_420-S_231_131-左右侧框",
+        "qty": "2",
+        "vi": "LGS421_420-S_231_131-Khung bên trái phải"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS421_420-S_231_131-右中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa phải"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "1",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "Z09",
+        "zh": "LGS布抽底板32.5X55",
+        "qty": "1",
+        "vi": "LGS đáy túi vải 32.5X55"
+      },
+      {
+        "code": "Y08",
+        "zh": "LGS布抽55x32.5x18.7",
+        "qty": "1",
+        "vi": "LGS túi vải 55x32.5x18.7"
+      },
+      {
+        "code": "E",
+        "zh": "LGS231_131-底部横杆",
+        "qty": "2",
+        "vi": "LGS231_131-thanh dưới"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS421_420-S_231_131-左中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa trái"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS131-层板",
+        "qty": "2",
+        "vi": "LGS131-tấm tầng"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "1",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "A4",
+        "zh": "LGS231_131-中间层板",
+        "qty": "1",
+        "vi": "LGS231_131-Tấm tầng giữa"
+      },
+      {
+        "code": "G",
+        "zh": "LGS231_131-顶部横杆后",
+        "qty": "1",
+        "vi": "LGS231_131-Thanh trên sau"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS131-左顶板",
+        "qty": "1",
+        "vi": "LGS131-tấm trên trái"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS132": {
+    "name": "LGS132",
+    "sku": "LGS132B101S",
+    "size": "350Dx1468Wx679Hmm",
+    "parts": [
+      {
+        "code": "A2",
+        "zh": "LGS132-S-左顶板",
+        "qty": "1",
+        "vi": "LGS132-S-tấm trên trái"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "R",
+        "zh": "400-灯带",
+        "qty": "1",
+        "vi": "400-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS132_232-S-中框右",
+        "qty": "1",
+        "vi": "LGS132_232-S-Khung giữa phải"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS132-S-右顶板",
+        "qty": "1",
+        "vi": "LGS132-S-tấm trên phải"
+      },
+      {
+        "code": "E",
+        "zh": "LGS132_232-S-侧框右",
+        "qty": "1",
+        "vi": "LGS132_232-S-Khung bên phải"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "6",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "F1",
+        "zh": "LGS132-S-底部横杆右-后",
+        "qty": "1",
+        "vi": "LGS132-S-Thanh dưới phải-sau"
+      },
+      {
+        "code": "F2",
+        "zh": "LGS132-S-底部横杆右-前",
+        "qty": "1",
+        "vi": "LGS132-S-Thanh dưới phải-trước"
+      },
+      {
+        "code": "M",
+        "zh": "51底脚",
+        "qty": "2",
+        "vi": "51 chân đế"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS-布抽底板32.5X46",
+        "qty": "6",
+        "vi": "LGS-đáy túi vải 32.5X46"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "A4",
+        "zh": "LGS132-S-底层板",
+        "qty": "1",
+        "vi": "LGS132-S-tấm tầng đáy"
+      },
+      {
+        "code": "G2",
+        "zh": "LGS132-S底部横杆左-前_组件",
+        "qty": "1",
+        "vi": "LGS132-S Thanh dưới trái-trước_tổ hợp"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "6",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "G1",
+        "zh": "LGS132-S底部横杆左-后_组件",
+        "qty": "1",
+        "vi": "LGS132-S Thanh dưới trái-sau_tổ hợp"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "D",
+        "zh": "LGS132_232-S-侧框左",
+        "qty": "1",
+        "vi": "LGS132_232-S-Khung bên trái"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS132_232-S-中框左",
+        "qty": "1",
+        "vi": "LGS132_232-S-Khung giữa trái"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS132-S-中层板",
+        "qty": "1",
+        "vi": "LGS132-S-tấm tầng giữa"
+      },
+      {
+        "code": "J",
+        "zh": "LGS132-S-顶部横杆",
+        "qty": "2",
+        "vi": "LGS132-S-thanh trên"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS133": {
+    "name": "LGS133",
+    "sku": "LGS133KD02S",
+    "size": "350Dx1468Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "9",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "9",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚(螺纹长23mm)",
+        "qty": "4",
+        "vi": "54 chân đế(chiều dài ren 23mm)"
+      },
+      {
+        "code": "X02",
+        "zh": "595拉杆",
+        "qty": "2",
+        "vi": "595 thanh đũa"
+      },
+      {
+        "code": "G",
+        "zh": "LGS133-底部横杆右-前",
+        "qty": "1",
+        "vi": "LGS133-Thanh dưới phải-trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS133-底部横杆右-后",
+        "qty": "1",
+        "vi": "LGS133-Thanh dưới phải-sau"
+      },
+      {
+        "code": "K",
+        "zh": "LGS133-底部横杆左-前_组件",
+        "qty": "1",
+        "vi": "LGS133-Thanh dưới trái-trước_tổ hợp"
+      },
+      {
+        "code": "J",
+        "zh": "LGS133-底部横杆左-后_组件",
+        "qty": "1",
+        "vi": "LGS133-Thanh dưới trái-sau_tổ hợp"
+      },
+      {
+        "code": "A",
+        "zh": "LGS133-顶面板",
+        "qty": "2",
+        "vi": "LGS133-Mặt bàn trên"
+      },
+      {
+        "code": "C",
+        "zh": "LGS133_233中框",
+        "qty": "2",
+        "vi": "LGS133_233 khung giữa"
+      },
+      {
+        "code": "E",
+        "zh": "LGS133右侧框",
+        "qty": "1",
+        "vi": "LGS133 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS133左侧框",
+        "qty": "1",
+        "vi": "LGS133 khung bên trái"
+      },
+      {
+        "code": "S",
+        "zh": "LGS133顶部横杆",
+        "qty": "2",
+        "vi": "LGS133 thanh trên"
+      },
+      {
+        "code": "Y07",
+        "zh": "LGS布抽46x32.5x17.3",
+        "qty": "1",
+        "vi": "LGS túi vải 46x32.5x17.3"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "8",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS布抽底板32.5x46",
+        "qty": "9",
+        "vi": "LGS đáy túi vải 32.5x46"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS231": {
+    "name": "LGS231",
+    "sku": "LGS231K101S",
+    "size": "350Dx1790Wx598Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "F",
+        "zh": "LGS231_131-顶部横杆前",
+        "qty": "1",
+        "vi": "LGS231_131-Thanh trên trước"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS231-右顶板",
+        "qty": "1",
+        "vi": "LGS231-tấm trên phải"
+      },
+      {
+        "code": "R",
+        "zh": "1700-灯带",
+        "qty": "1",
+        "vi": "1700-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "1",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS421_420-S_231_131-右中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa phải"
+      },
+      {
+        "code": "Z09",
+        "zh": "LGS布抽底板32.5X55",
+        "qty": "1",
+        "vi": "LGS đáy túi vải 32.5X55"
+      },
+      {
+        "code": "Y08",
+        "zh": "LGS布抽55x32.5x18.7",
+        "qty": "1",
+        "vi": "LGS túi vải 55x32.5x18.7"
+      },
+      {
+        "code": "A4",
+        "zh": "LGS231_131-中间层板",
+        "qty": "1",
+        "vi": "LGS231_131-Tấm tầng giữa"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "1",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS421_420-S_231_131-左中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa trái"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS231-侧层板",
+        "qty": "2",
+        "vi": "LGS231-tấm tầng bên"
+      },
+      {
+        "code": "D",
+        "zh": "LGS421_420-S_231_131-左右侧框",
+        "qty": "2",
+        "vi": "LGS421_420-S_231_131-Khung bên trái phải"
+      },
+      {
+        "code": "E",
+        "zh": "LGS231_131-底部横杆",
+        "qty": "2",
+        "vi": "LGS231_131-thanh dưới"
+      },
+      {
+        "code": "G",
+        "zh": "LGS231_131-顶部横杆后",
+        "qty": "1",
+        "vi": "LGS231_131-Thanh trên sau"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS231-左顶板",
+        "qty": "1",
+        "vi": "LGS231-tấm trên trái"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS232": {
+    "name": "LGS232",
+    "sku": "LGS232K101S",
+    "size": "350Dx1738Wx679Hmm",
+    "parts": [
+      {
+        "code": "J",
+        "zh": "LGS232-S-顶部横杆",
+        "qty": "2",
+        "vi": "LGS232-S-thanh trên"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "R",
+        "zh": "500-灯带",
+        "qty": "1",
+        "vi": "500-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS232_132-S-中框右",
+        "qty": "1",
+        "vi": "LGS232_132-S-Khung giữa phải"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS232-S-右顶板",
+        "qty": "1",
+        "vi": "LGS232-S-tấm trên phải"
+      },
+      {
+        "code": "E",
+        "zh": "LGS232_132-S-侧框右",
+        "qty": "1",
+        "vi": "LGS232_132-S-Khung bên phải"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "6",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "F1",
+        "zh": "LGS232-S-底部横杆右-后",
+        "qty": "1",
+        "vi": "LGS232-S-Thanh dưới phải-sau"
+      },
+      {
+        "code": "F2",
+        "zh": "LGS232-S-底部横杆右-前",
+        "qty": "1",
+        "vi": "LGS232-S-Thanh dưới phải-trước"
+      },
+      {
+        "code": "Z09",
+        "zh": "LGS布抽底板32.5X55",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 32.5X55"
+      },
+      {
+        "code": "Y08",
+        "zh": "LGS布抽55x32.5x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 55x32.5x18.7"
+      },
+      {
+        "code": "M",
+        "zh": "51底脚",
+        "qty": "2",
+        "vi": "51 chân đế"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "6",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "G1",
+        "zh": "LGS232-S底部横杆左-后_组件",
+        "qty": "1",
+        "vi": "LGS232-S Thanh dưới trái-sau_tổ hợp"
+      },
+      {
+        "code": "G2",
+        "zh": "LGS232-S底部横杆左-前_组件",
+        "qty": "1",
+        "vi": "LGS232-S Thanh dưới trái-trước_tổ hợp"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "A4",
+        "zh": "LGS232-S-底层板",
+        "qty": "1",
+        "vi": "LGS232-S-tấm tầng đáy"
+      },
+      {
+        "code": "D",
+        "zh": "LGS232_132-S-侧框左",
+        "qty": "1",
+        "vi": "LGS232_132-S-Khung bên trái"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS232_132-S-中框左",
+        "qty": "1",
+        "vi": "LGS232_132-S-Khung giữa trái"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS232-S-左顶板",
+        "qty": "1",
+        "vi": "LGS232-S-tấm trên trái"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS232_231_131-中间层板",
+        "qty": "1",
+        "vi": "LGS232_231_131-Tấm tầng giữa"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS233": {
+    "name": "LGS233",
+    "sku": "LGS233BH02S",
+    "size": "350Dx1738Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "9",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "9",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚(螺纹长23mm)",
+        "qty": "4",
+        "vi": "54 chân đế(chiều dài ren 23mm)"
+      },
+      {
+        "code": "X02",
+        "zh": "595拉杆",
+        "qty": "2",
+        "vi": "595 thanh đũa"
+      },
+      {
+        "code": "C",
+        "zh": "LGS133_233中框",
+        "qty": "2",
+        "vi": "LGS133_233 khung giữa"
+      },
+      {
+        "code": "G",
+        "zh": "LGS233-底部横杆右-前",
+        "qty": "1",
+        "vi": "LGS233-Thanh dưới phải-trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS233-底部横杆右-后",
+        "qty": "1",
+        "vi": "LGS233-Thanh dưới phải-sau"
+      },
+      {
+        "code": "K",
+        "zh": "LGS233-底部横杆左-前_组件",
+        "qty": "1",
+        "vi": "LGS233-Thanh dưới trái-trước_tổ hợp"
+      },
+      {
+        "code": "J",
+        "zh": "LGS233-底部横杆左-后_组件",
+        "qty": "1",
+        "vi": "LGS233-Thanh dưới trái-sau_tổ hợp"
+      },
+      {
+        "code": "A",
+        "zh": "LGS233-顶面板",
+        "qty": "2",
+        "vi": "LGS233-Mặt bàn trên"
+      },
+      {
+        "code": "E",
+        "zh": "LGS233右侧框",
+        "qty": "1",
+        "vi": "LGS233 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS233左侧框",
+        "qty": "1",
+        "vi": "LGS233 khung bên trái"
+      },
+      {
+        "code": "S",
+        "zh": "LGS233顶部横杆",
+        "qty": "2",
+        "vi": "LGS233 thanh trên"
+      },
+      {
+        "code": "Y09",
+        "zh": "LGS布抽55x32.5x17.3",
+        "qty": "1",
+        "vi": "LGS túi vải 55x32.5x17.3"
+      },
+      {
+        "code": "Y08",
+        "zh": "LGS布抽55x32.5x18.7",
+        "qty": "8",
+        "vi": "LGS túi vải 55x32.5x18.7"
+      },
+      {
+        "code": "Z09",
+        "zh": "LGS布抽底板32.5x55",
+        "qty": "9",
+        "vi": "LGS đáy túi vải 32.5x55"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS333": {
+    "name": "LGS333",
+    "sku": "LGS333KD02S",
+    "size": "300Dx1138Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "10",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "10",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "E",
+        "zh": "LGS333-433右侧框",
+        "qty": "1",
+        "vi": "LGS333-433 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS333-433左侧框",
+        "qty": "1",
+        "vi": "LGS333-433 khung bên trái"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS333_334_433_434中竖梁-前",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-trước"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS333_334_433_434中竖梁-后",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-sau"
+      },
+      {
+        "code": "G",
+        "zh": "LGS333_433_733_833底部横杆前",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS333_433_733_833底部横杆后",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới sau"
+      },
+      {
+        "code": "I",
+        "zh": "LGS333_723_733支撑框",
+        "qty": "3",
+        "vi": "LGS333_723_733 khung đỡ"
+      },
+      {
+        "code": "C",
+        "zh": "LGS333_733顶部横杆",
+        "qty": "2",
+        "vi": "LGS333_733 thanh trên"
+      },
+      {
+        "code": "A",
+        "zh": "LGS333_顶面板",
+        "qty": "1",
+        "vi": "LGS333_ Mặt bàn trên"
+      },
+      {
+        "code": "Y10",
+        "zh": "LGS布抽25.7x28x16.8",
+        "qty": "4",
+        "vi": "LGS túi vải 25.7x28x16.8"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "Z01",
+        "zh": "LGS布抽底板28x25.7",
+        "qty": "4",
+        "vi": "LGS đáy túi vải 28x25.7"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS334": {
+    "name": "LGS334",
+    "sku": "LGS334BH02S",
+    "size": "350Dx1468Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "10",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "10",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS333_334_433_434中竖梁-前",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-trước"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS333_334_433_434中竖梁-后",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-sau"
+      },
+      {
+        "code": "T",
+        "zh": "LGS334-顶部横杆右_组件",
+        "qty": "2",
+        "vi": "LGS334-Thanh trên phải_tổ hợp"
+      },
+      {
+        "code": "A",
+        "zh": "LGS334-顶面板",
+        "qty": "2",
+        "vi": "LGS334-Mặt bàn trên"
+      },
+      {
+        "code": "G",
+        "zh": "LGS334_434_834-底部横杆左-前",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới trái-trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS334_434_834-底部横杆左-后",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới trái-sau"
+      },
+      {
+        "code": "K",
+        "zh": "LGS334_434_834-底部横杆右-前_组件",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới phải-trước_tổ hợp"
+      },
+      {
+        "code": "J",
+        "zh": "LGS334_434_834-底部横杆右-后_组件",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới phải-sau_tổ hợp"
+      },
+      {
+        "code": "E",
+        "zh": "LGS334_434右侧框",
+        "qty": "1",
+        "vi": "LGS334_434 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS334_434左侧框",
+        "qty": "1",
+        "vi": "LGS334_434 khung bên trái"
+      },
+      {
+        "code": "C",
+        "zh": "LGS334支撑框-中间",
+        "qty": "1",
+        "vi": "LGS334 khung đỡ-Chính giữa"
+      },
+      {
+        "code": "I",
+        "zh": "LGS334支撑框-左右",
+        "qty": "2",
+        "vi": "LGS334 khung đỡ-Trái Phải"
+      },
+      {
+        "code": "R",
+        "zh": "LGS334顶部横杆左",
+        "qty": "2",
+        "vi": "LGS334 Thanh trên trái"
+      },
+      {
+        "code": "Y11",
+        "zh": "LGS布抽34x32.5x16.8",
+        "qty": "4",
+        "vi": "LGS túi vải 34x32.5x16.8"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "Z4",
+        "zh": "LGS布抽底板32.5x34",
+        "qty": "4",
+        "vi": "LGS đáy túi vải 32.5x34"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS布抽底板32.5x46",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 32.5x46"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS420": {
+    "name": "LGS420",
+    "sku": "LGS420K101S",
+    "size": "350Dx1570Wx598Hmm",
+    "parts": [
+      {
+        "code": "F2",
+        "zh": "LGS420-S-顶部横杆后",
+        "qty": "1",
+        "vi": "LGS420-S-Thanh trên sau"
+      },
+      {
+        "code": "G",
+        "zh": "LGS421_420-S-支撑框",
+        "qty": "1",
+        "vi": "LGS421_420-S-khung đỡ"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS420-S-顶板右",
+        "qty": "1",
+        "vi": "LGS420-S-Tấm trên phải"
+      },
+      {
+        "code": "R",
+        "zh": "1500-灯带",
+        "qty": "1",
+        "vi": "1500-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "F1",
+        "zh": "LGS420-S-顶部横杆前",
+        "qty": "1",
+        "vi": "LGS420-S-Thanh trên trước"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS421_420-S_231_131-右中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa phải"
+      },
+      {
+        "code": "Z06",
+        "zh": "LGS-布抽底板32.5X35",
+        "qty": "2",
+        "vi": "LGS-đáy túi vải 32.5X35"
+      },
+      {
+        "code": "Y14",
+        "zh": "LGS布抽35x32.5x18.7",
+        "qty": "2",
+        "vi": "LGS túi vải 35x32.5x18.7"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "2",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "2",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "E",
+        "zh": "LGS420-S-底部横杆",
+        "qty": "2",
+        "vi": "LGS420-S-thanh dưới"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS421_420-S_231_131-左中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa trái"
+      },
+      {
+        "code": "A4",
+        "zh": "LGS421_420-S-侧板层板",
+        "qty": "2",
+        "vi": "LGS421_420-S-Tấm tầng bên"
+      },
+      {
+        "code": "D",
+        "zh": "LGS421_420-S_231_131-左右侧框",
+        "qty": "2",
+        "vi": "LGS421_420-S_231_131-Khung bên trái phải"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS420-S-中间层板",
+        "qty": "1",
+        "vi": "LGS420-S-Tấm tầng giữa"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS420-S-顶板左",
+        "qty": "1",
+        "vi": "LGS420-S-Tấm trên trái"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS421": {
+    "name": "LGS421",
+    "sku": "LGS421K101S",
+    "size": "350Dx1790Wx598Hmm",
+    "parts": [
+      {
+        "code": "A2",
+        "zh": "LGS421-S_顶板左",
+        "qty": "1",
+        "vi": "LGS421-S_ Tấm trên trái"
+      },
+      {
+        "code": "F1",
+        "zh": "LGS421-S-顶部横杆后",
+        "qty": "1",
+        "vi": "LGS421-S-Thanh trên sau"
+      },
+      {
+        "code": "F2",
+        "zh": "LGS421-S-顶部横杆前",
+        "qty": "1",
+        "vi": "LGS421-S-Thanh trên trước"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS421-S_顶板右",
+        "qty": "1",
+        "vi": "LGS421-S_ Tấm trên phải"
+      },
+      {
+        "code": "R",
+        "zh": "1700-灯带",
+        "qty": "1",
+        "vi": "1700-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "C2",
+        "zh": "LGS421_420-S_231_131-右中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa phải"
+      },
+      {
+        "code": "A4",
+        "zh": "LGS421_420-S-侧板层板",
+        "qty": "2",
+        "vi": "LGS421_420-S-Tấm tầng bên"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS布抽底板32.5X46",
+        "qty": "2",
+        "vi": "LGS đáy túi vải 32.5X46"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "2",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "G",
+        "zh": "LGS421_420-S-支撑框",
+        "qty": "1",
+        "vi": "LGS421_420-S-khung đỡ"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "2",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "2",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "E",
+        "zh": "LGS421-S-底部横杆",
+        "qty": "2",
+        "vi": "LGS421-S-thanh dưới"
+      },
+      {
+        "code": "C1",
+        "zh": "LGS421_420-S_231_131-左中框",
+        "qty": "1",
+        "vi": "LGS421_420-S_231_131-Khung giữa trái"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS421-S_中间层板",
+        "qty": "1",
+        "vi": "LGS421-S_ Tấm tầng giữa"
+      },
+      {
+        "code": "D",
+        "zh": "LGS421_420-S_231_131-左右侧框",
+        "qty": "2",
+        "vi": "LGS421_420-S_231_131-Khung bên trái phải"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS433": {
+    "name": "LGS433",
+    "sku": "LGS433KD02S",
+    "size": "300Dx1138Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "8",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "8",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "R",
+        "zh": "500-灯带",
+        "qty": "1",
+        "vi": "500-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "E",
+        "zh": "LGS333-433右侧框",
+        "qty": "1",
+        "vi": "LGS333-433 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS333-433左侧框",
+        "qty": "1",
+        "vi": "LGS333-433 khung bên trái"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS333_334_433_434中竖梁-前",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-trước"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS333_334_433_434中竖梁-后",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-sau"
+      },
+      {
+        "code": "G",
+        "zh": "LGS333_433_733_833底部横杆前",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS333_433_733_833底部横杆后",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới sau"
+      },
+      {
+        "code": "C",
+        "zh": "LGS433-层板",
+        "qty": "1",
+        "vi": "LGS433-tấm tầng"
+      },
+      {
+        "code": "A",
+        "zh": "LGS433-顶面板",
+        "qty": "1",
+        "vi": "LGS433-Mặt bàn trên"
+      },
+      {
+        "code": "I2",
+        "zh": "LGS433支撑框-右",
+        "qty": "1",
+        "vi": "LGS433 khung đỡ-phải"
+      },
+      {
+        "code": "I1",
+        "zh": "LGS433支撑框-左",
+        "qty": "1",
+        "vi": "LGS433 khung đỡ-trái"
+      },
+      {
+        "code": "J",
+        "zh": "LGS433顶部横杆",
+        "qty": "2",
+        "vi": "LGS433 thanh trên"
+      },
+      {
+        "code": "Y10",
+        "zh": "LGS布抽25.7x28x16.8",
+        "qty": "2",
+        "vi": "LGS túi vải 25.7x28x16.8"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "Z01",
+        "zh": "LGS布抽底板28x25.7",
+        "qty": "2",
+        "vi": "LGS đáy túi vải 28x25.7"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS434": {
+    "name": "LGS434",
+    "sku": "LGS434WH02S",
+    "size": "350Dx1468Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "8",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "8",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "R",
+        "zh": "650-灯带",
+        "qty": "1",
+        "vi": "650-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS333_334_433_434中竖梁-前",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-trước"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS333_334_433_434中竖梁-后",
+        "qty": "2",
+        "vi": "LGS333_334_433_434 thanh dọc giữa-sau"
+      },
+      {
+        "code": "K1",
+        "zh": "LGS334_434_834-底部横杆右-前_组件",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới phải-trước_tổ hợp"
+      },
+      {
+        "code": "K2",
+        "zh": "LGS334_434_834-底部横杆右-后_组件",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới phải-sau_tổ hợp"
+      },
+      {
+        "code": "J1",
+        "zh": "LGS334_434_834-底部横杆左-前",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới trái-trước"
+      },
+      {
+        "code": "J2",
+        "zh": "LGS334_434_834-底部横杆左-后",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới trái-sau"
+      },
+      {
+        "code": "F",
+        "zh": "LGS334_434右侧框",
+        "qty": "1",
+        "vi": "LGS334_434 khung bên phải"
+      },
+      {
+        "code": "E",
+        "zh": "LGS334_434左侧框",
+        "qty": "1",
+        "vi": "LGS334_434 khung bên trái"
+      },
+      {
+        "code": "T1",
+        "zh": "LGS434-中部横杆左-前_组件",
+        "qty": "1",
+        "vi": "LGS434-thanh giữa trái-trước_tổ hợp"
+      },
+      {
+        "code": "T2",
+        "zh": "LGS434-中部横杆左-后_组件",
+        "qty": "1",
+        "vi": "LGS434-thanh giữa trái-sau_tổ hợp"
+      },
+      {
+        "code": "A",
+        "zh": "LGS434-左顶板",
+        "qty": "1",
+        "vi": "LGS434-tấm trên trái"
+      },
+      {
+        "code": "U1",
+        "zh": "LGS434中部横杆右-前",
+        "qty": "1",
+        "vi": "LGS434 thanh giữa phải-trước"
+      },
+      {
+        "code": "U2",
+        "zh": "LGS434中部横杆右-后",
+        "qty": "1",
+        "vi": "LGS434 thanh giữa phải-sau"
+      },
+      {
+        "code": "C",
+        "zh": "LGS434右顶板",
+        "qty": "1",
+        "vi": "LGS434 tấm trên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS434层板",
+        "qty": "1",
+        "vi": "LGS434 tấm tầng"
+      },
+      {
+        "code": "I2",
+        "zh": "LGS434支撑框-右",
+        "qty": "1",
+        "vi": "LGS434 khung đỡ-phải"
+      },
+      {
+        "code": "I1",
+        "zh": "LGS434支撑框-左",
+        "qty": "1",
+        "vi": "LGS434 khung đỡ-trái"
+      },
+      {
+        "code": "G",
+        "zh": "LGS434顶部横杆",
+        "qty": "2",
+        "vi": "LGS434 thanh trên"
+      },
+      {
+        "code": "Y11",
+        "zh": "LGS布抽34x32.5x16.8",
+        "qty": "2",
+        "vi": "LGS túi vải 34x32.5x16.8"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "Z04",
+        "zh": "LGS布抽底板32.5x34",
+        "qty": "2",
+        "vi": "LGS đáy túi vải 32.5x34"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS布抽底板32.5x46",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 32.5x46"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS723": {
+    "name": "LGS723",
+    "sku": "LGS723KD05S",
+    "size": "300Dx987Wx681Hmm",
+    "parts": [
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "5",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "5",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "R",
+        "zh": "900-灯带",
+        "qty": "1",
+        "vi": "900-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "I",
+        "zh": "LGS333_723_733支撑框",
+        "qty": "2",
+        "vi": "LGS333_723_733 khung đỡ"
+      },
+      {
+        "code": "C",
+        "zh": "LGS723-层板",
+        "qty": "1",
+        "vi": "LGS723-tấm tầng"
+      },
+      {
+        "code": "A",
+        "zh": "LGS723-顶面板",
+        "qty": "1",
+        "vi": "LGS723-Mặt bàn trên"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS723_733中竖梁-前",
+        "qty": "1",
+        "vi": "LGS723_733 thanh dọc giữa-trước"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS723_733中竖梁-后",
+        "qty": "1",
+        "vi": "LGS723_733 thanh dọc giữa-sau"
+      },
+      {
+        "code": "E",
+        "zh": "LGS723_733右侧框",
+        "qty": "1",
+        "vi": "LGS723_733 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS723_733左侧框",
+        "qty": "1",
+        "vi": "LGS723_733 khung bên trái"
+      },
+      {
+        "code": "J",
+        "zh": "LGS723中部横杆",
+        "qty": "2",
+        "vi": "LGS723 thanh giữa"
+      },
+      {
+        "code": "G",
+        "zh": "LGS723底部横杆-前",
+        "qty": "1",
+        "vi": "LGS723 thanh dưới-trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS723底部横杆-后",
+        "qty": "1",
+        "vi": "LGS723 thanh dưới-sau"
+      },
+      {
+        "code": "K",
+        "zh": "LGS723顶部横杆",
+        "qty": "2",
+        "vi": "LGS723 thanh trên"
+      },
+      {
+        "code": "Y13",
+        "zh": "LGS布抽30x28x16.8",
+        "qty": "3",
+        "vi": "LGS túi vải 30x28x16.8"
+      },
+      {
+        "code": "Y12",
+        "zh": "LGS布抽46x28x18.7",
+        "qty": "2",
+        "vi": "LGS túi vải 46x28x18.7"
+      },
+      {
+        "code": "Z02",
+        "zh": "LGS布抽底板28x30",
+        "qty": "3",
+        "vi": "LGS đáy túi vải 28x30"
+      },
+      {
+        "code": "Z07",
+        "zh": "LGS布抽底板28x46",
+        "qty": "2",
+        "vi": "LGS đáy túi vải 28x46"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS733": {
+    "name": "LGS733",
+    "sku": "LGS733KD05S",
+    "size": "300Dx1138Wx681Hmm",
+    "parts": [
+      {
+        "code": "R",
+        "zh": "1050-灯带",
+        "qty": "1",
+        "vi": "1050-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "7",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "7",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "G",
+        "zh": "LGS333_433_733_833底部横杆前",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS333_433_733_833底部横杆后",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới sau"
+      },
+      {
+        "code": "I",
+        "zh": "LGS333_723_733支撑框",
+        "qty": "3",
+        "vi": "LGS333_723_733 khung đỡ"
+      },
+      {
+        "code": "J",
+        "zh": "LGS333_733顶部横杆",
+        "qty": "2",
+        "vi": "LGS333_733 thanh trên"
+      },
+      {
+        "code": "L2",
+        "zh": "LGS723_733中竖梁-前",
+        "qty": "2",
+        "vi": "LGS723_733 thanh dọc giữa-trước"
+      },
+      {
+        "code": "L1",
+        "zh": "LGS723_733中竖梁-后",
+        "qty": "2",
+        "vi": "LGS723_733 thanh dọc giữa-sau"
+      },
+      {
+        "code": "E",
+        "zh": "LGS723_733右侧框",
+        "qty": "1",
+        "vi": "LGS723_733 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS723_733左侧框",
+        "qty": "1",
+        "vi": "LGS723_733 khung bên trái"
+      },
+      {
+        "code": "C",
+        "zh": "LGS733-层板",
+        "qty": "1",
+        "vi": "LGS733-tấm tầng"
+      },
+      {
+        "code": "A",
+        "zh": "LGS733-顶面板",
+        "qty": "1",
+        "vi": "LGS733-Mặt bàn trên"
+      },
+      {
+        "code": "K",
+        "zh": "LGS733顶部支撑杆",
+        "qty": "2",
+        "vi": "LGS733 Thanh đỡ trên"
+      },
+      {
+        "code": "Y10",
+        "zh": "LGS布抽25.7x28x16.8",
+        "qty": "4",
+        "vi": "LGS túi vải 25.7x28x16.8"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "3",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "Z01",
+        "zh": "LGS布抽底板28x25.7",
+        "qty": "4",
+        "vi": "LGS đáy túi vải 28x25.7"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "3",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS833": {
+    "name": "LGS833",
+    "sku": "LGS833KD02S",
+    "size": "300Dx1138Wx681Hmm",
+    "parts": [
+      {
+        "code": "R",
+        "zh": "1050-灯带",
+        "qty": "1",
+        "vi": "1050-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "280mm布抽条左",
+        "qty": "6",
+        "vi": "280mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "280mm布抽条右",
+        "qty": "6",
+        "vi": "280mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "G",
+        "zh": "LGS333_433_733_833底部横杆前",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới trước"
+      },
+      {
+        "code": "F",
+        "zh": "LGS333_433_733_833底部横杆后",
+        "qty": "1",
+        "vi": "LGS333_433_733_833 Thanh dưới sau"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS833-层板",
+        "qty": "1",
+        "vi": "LGS833-tấm tầng"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS833-顶面板",
+        "qty": "1",
+        "vi": "LGS833-Mặt bàn trên"
+      },
+      {
+        "code": "C",
+        "zh": "LGS833中框",
+        "qty": "2",
+        "vi": "LGS833 khung giữa"
+      },
+      {
+        "code": "E",
+        "zh": "LGS833右侧框",
+        "qty": "1",
+        "vi": "LGS833 khung bên phải"
+      },
+      {
+        "code": "D",
+        "zh": "LGS833左侧框",
+        "qty": "1",
+        "vi": "LGS833 khung bên trái"
+      },
+      {
+        "code": "J",
+        "zh": "LGS833顶部横杆",
+        "qty": "2",
+        "vi": "LGS833 thanh trên"
+      },
+      {
+        "code": "Y05",
+        "zh": "LGS布抽35x28x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 35x28x18.7"
+      },
+      {
+        "code": "Z05",
+        "zh": "LGS布抽底板28x35",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 28x35"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  },
+  "LGS834": {
+    "name": "LGS834",
+    "sku": "LGS834WH02S",
+    "size": "350Dx1468Wx681Hmm",
+    "parts": [
+      {
+        "code": "R",
+        "zh": "1350-灯带",
+        "qty": "1",
+        "vi": "1350-đèn LED"
+      },
+      {
+        "code": "R1",
+        "zh": "自粘灯带固定卡扣",
+        "qty": "5",
+        "vi": "kẹp cố định đèn"
+      },
+      {
+        "code": "X01",
+        "zh": "254拉杆",
+        "qty": "2",
+        "vi": "254 thanh đũa"
+      },
+      {
+        "code": "BL",
+        "zh": "325mm布抽条左",
+        "qty": "6",
+        "vi": "325mm Thanh ngăn kéo trái"
+      },
+      {
+        "code": "BR",
+        "zh": "325mm布抽条右",
+        "qty": "6",
+        "vi": "325mm Thanh ngăn kéo phải"
+      },
+      {
+        "code": "M",
+        "zh": "54底脚",
+        "qty": "2",
+        "vi": "54 chân đế"
+      },
+      {
+        "code": "G2",
+        "zh": "LGS334_434_834-底部横杆右-前_组件",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới phải-trước_tổ hợp"
+      },
+      {
+        "code": "F2",
+        "zh": "LGS334_434_834-底部横杆右-后_组件",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới phải-sau_tổ hợp"
+      },
+      {
+        "code": "G1",
+        "zh": "LGS334_434_834-底部横杆左-前",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới trái-trước"
+      },
+      {
+        "code": "F1",
+        "zh": "LGS334_434_834-底部横杆左-后",
+        "qty": "1",
+        "vi": "LGS334_434_834-Thanh dưới trái-sau"
+      },
+      {
+        "code": "C",
+        "zh": "LGS834中框",
+        "qty": "2",
+        "vi": "LGS834 khung giữa"
+      },
+      {
+        "code": "E",
+        "zh": "LGS834右侧框",
+        "qty": "1",
+        "vi": "LGS834 khung bên phải"
+      },
+      {
+        "code": "A1",
+        "zh": "LGS834右顶板",
+        "qty": "1",
+        "vi": "LGS834 tấm trên phải"
+      },
+      {
+        "code": "A3",
+        "zh": "LGS834层板",
+        "qty": "2",
+        "vi": "LGS834 tấm tầng"
+      },
+      {
+        "code": "D",
+        "zh": "LGS834左侧框",
+        "qty": "1",
+        "vi": "LGS834 khung bên trái"
+      },
+      {
+        "code": "A2",
+        "zh": "LGS834左顶板",
+        "qty": "1",
+        "vi": "LGS834 tấm trên trái"
+      },
+      {
+        "code": "J2",
+        "zh": "LGS834顶部横杆右_组件",
+        "qty": "2",
+        "vi": "LGS834 Thanh trên phải_tổ hợp"
+      },
+      {
+        "code": "J1",
+        "zh": "LGS834顶部横杆左",
+        "qty": "2",
+        "vi": "LGS834 Thanh trên trái"
+      },
+      {
+        "code": "Y06",
+        "zh": "LGS布抽46x32.5x18.7",
+        "qty": "6",
+        "vi": "LGS túi vải 46x32.5x18.7"
+      },
+      {
+        "code": "Z08",
+        "zh": "LGS布抽底板32.5x46",
+        "qty": "6",
+        "vi": "LGS đáy túi vải 32.5x46"
+      },
+      {
+        "code": "S",
+        "zh": "排插带尾插",
+        "qty": "1",
+        "vi": "ổ cắm điện"
+      },
+      {
+        "code": "说明书",
+        "zh": "说明书",
+        "qty": "1",
+        "vi": "Sách hướng dẫn"
+      },
+      {
+        "code": "五金包",
+        "zh": "五金包",
+        "qty": "1",
+        "vi": "Túi ngũ kim"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "onboarding": {
+    "greeting": "Hỏi về BOM, so sánh sản phẩm, dịch thuật — cho nhà máy 金汰家具",
+    "check_bom": "Kiểm tra BOM",
+    "compare_sp": "So sánh SP",
+    "translate_bom": "Dịch BOM",
+    "list_sp": "Liệt kê SP"
+  },
+  "input": {
+    "placeholder": "Hỏi về BOM, so sánh sản phẩm, dịch thuật...",
+    "new_line_hint": "Shift+Enter để xuống dòng"
+  },
+  "sidebar": {
+    "new_chat": "Cuộc trò chuyện mới",
+    "no_conversations": "Chưa có cuộc trò chuyện nào",
+    "show_more": "Xem thêm {count} cuộc trò chuyện..."
+  },
+  "header": {
+    "settings": "Cài đặt"
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "api_keys": "API Keys",
+    "default_model": "Model mặc định",
+    "language": "Ngôn ngữ",
+    "language_desc": "Chọn ngôn ngữ hiển thị giao diện",
+    "save": "Lưu cài đặt",
+    "saved": "Đã lưu!",
+    "error": "Lỗi lưu cài đặt",
+    "auto_lang": "Tự động (theo user)",
+    "vi_lang": "Tiếng Việt",
+    "en_lang": "English",
+    "zh_lang": "中文"
+  },
+  "chat": {
+    "loading": "Đang tải...",
+    "thinking": "Đang suy nghĩ...",
+    "send": "Gửi",
+    "export_excel": "Xuất Excel",
+    "download": "Tải xuống"
+  },
+  "error": {
+    "not_found": "Không tìm thấy sản phẩm {sku}",
+    "tool_error": "Lỗi khi gọi tool: {error}",
+    "network_error": "Lỗi kết nối mạng"
+  },
+  "memory": {
+    "saved": "Đã ghi nhận"
+  }
+}
